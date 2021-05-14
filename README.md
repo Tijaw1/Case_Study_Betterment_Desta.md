@@ -1,3 +1,4 @@
+![Betterment](https://github.com/Tijaw1/Case_Study_Betterment_Desta.md/blob/main/Betterment.JPG)
 
 The document is a case that study focuses on Robo-Advisory FinTech company platform, Betterment.
 
